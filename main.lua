@@ -5,7 +5,6 @@
 ]]
 
 CustomSkillTree = RegisterMod("CustomSkillTree", 1)
-CustomSkillTree.newTree = {}
 
 function CustomSkillTree:initSkillTree()
     if PST == nil then
