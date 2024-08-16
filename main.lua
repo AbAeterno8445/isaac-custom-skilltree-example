@@ -1,6 +1,6 @@
 --[[
     In this example mod, a skill tree is added to Tainted Isaac.
-    Example nodes 1 have the "Adds 5 coins when starting a run" modifier, the rest are for show and don't have modifiers.
+    "Example node 1" nodes have the "Adds 5 coins when starting a run" modifier, the rest are for show and don't have modifiers.
     Modifier value name is "runStartCoins", which can be found in each node's 'modifiers' table, and is what will be applied on the run.
 ]]
 
